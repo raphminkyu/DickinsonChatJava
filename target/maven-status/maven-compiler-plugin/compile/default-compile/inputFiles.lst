@@ -1,5 +1,7 @@
-/Users/raphael0925/git/DickinsonChatJava3/src/main/java/com/DickinsonChatJava/model/ChatMessage.java
-/Users/raphael0925/git/DickinsonChatJava3/src/main/java/com/DickinsonChatJava/controller/WebSocketEventListener.java
-/Users/raphael0925/git/DickinsonChatJava3/src/main/java/com/DickinsonChatJava/controller/ChatController.java
-/Users/raphael0925/git/DickinsonChatJava3/src/main/java/com/DickinsonChatJava/config/WebSocketConfig.java
-/Users/raphael0925/git/DickinsonChatJava3/src/main/java/com/DickinsonChatJava/DickinsonChatJavaApplication.java
+/Users/raphael0925/git/DickinsonChatJava/src/main/java/com/DickinsonChatJava/DickinsonChatJavaApplication.java
+/Users/raphael0925/git/DickinsonChatJava/src/main/java/com/DickinsonChatJava/controller/WebSocketEventListener.java
+/Users/raphael0925/git/DickinsonChatJava/src/main/java/com/DickinsonChatJava/config/WebSocketConfig.java
+/Users/raphael0925/git/DickinsonChatJava/src/main/java/com/DickinsonChatJava/controller/WebController.java
+/Users/raphael0925/git/DickinsonChatJava/src/main/java/com/DickinsonChatJava/config/SecurityConfiguration.java
+/Users/raphael0925/git/DickinsonChatJava/src/main/java/com/DickinsonChatJava/controller/ChatController.java
+/Users/raphael0925/git/DickinsonChatJava/src/main/java/com/DickinsonChatJava/model/ChatMessage.java
